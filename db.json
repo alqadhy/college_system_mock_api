@@ -6,6 +6,7 @@
         "title": "EU University"
       },
       "name": "EU University For Computer Science and IT",
+      "short_name": "EU University",
       "location": "Giza, Egypt",
       "email": "info@eu-university.edu",
       "phone": "+20 123 456 7890",
@@ -27,6 +28,10 @@
           "url": "https://www.linkedin.com/school"
         }
       }
+    },
+    "main_style_colors": {
+      "primary_color": "#0046FF",
+      "secondary_color": "#001BB7"
     },
     "pages": {
       "home": "Home",
@@ -152,6 +157,7 @@
         "title": "جامعة الاتحاد الأوروبية"
       },
       "name": "جامعة الاتحاد الأوروبية لعلوم الحاسب وتكنولوجيا المعلومات",
+      "short_name": "جامعة الاتحاد الأوروبية",
       "location": "الجيزة، مصر",
       "email": "info@eu-university.edu",
       "phone": "+20 123 456 7890",
@@ -173,6 +179,10 @@
           "url": "https://www.linkedin.com/school"
         }
       }
+    },
+    "main_style_colors": {
+      "primary_color": "#0046FF",
+      "secondary_color": "#001BB7"
     },
     "pages": {
       "home": "الصفحة الرئيسية",
