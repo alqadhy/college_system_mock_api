@@ -1,0 +1,1037 @@
+{
+  "en_content": {
+    "university_data": {
+      "logo": {
+        "icon": "https://png.pngtree.com/png-clipart/20211017/original/pngtree-university-logo-png-png-image_6855396.png",
+        "title": "EU University"
+      },
+      "name": "EU University For Computer Science and IT",
+      "location": "Giza, Egypt",
+      "email": "info@eu-university.edu",
+      "phone": "+20 123 456 7890",
+      "social_media": {
+        "facebook": {
+          "title": "Facebook",
+          "url": "https://www.facebook.com"
+        },
+        "x": {
+          "title": "X",
+          "url": "https://www.x.com"
+        },
+        "instagram": {
+          "title": "Instagram",
+          "url": "https://www.instagram.com"
+        },
+        "linkedin": {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/school"
+        }
+      }
+    },
+    "pages": {
+      "home": "Home",
+      "login": "Login",
+      "dashboard": "Dashboard",
+      "email_verification": "Email Verification",
+      "change_password": "Change Password",
+      "assignments": "Assignments",
+      "events": "Events",
+      "enrolled_courses": "Enrolled Courses",
+      "enroll_new_course": "Enroll New Course",
+      "marks": "Marks",
+      "weekly_schedule": "Weekly Schedule",
+      "payments_and_fees": "Payments & Fees",
+      "to_do_list": "To-Do List",
+      "messages": "Messages",
+      "announcements": "Announcements",
+      "log_out": "Logout"
+    },
+    "headings_and_titles": {
+      "page_loader_heading": "Loading, Please Wait...",
+      "main_heading": "EU University For Computer Science and IT!",
+      "departments_heading": "Departments",
+      "call_to_action_heading": "Start Your Journey Today!",
+      "contact_us_heading": "Contact Us",
+      "social_media_heading": "Follow Us",
+      "sidebar_title": "Student Portal",
+      "student_details_title": "Student Details",
+      "stats_title": "Statistics",
+      "required_assignments_title": "Required Assignments",
+      "upcoming_events_title": "Upcoming Events",
+      "today_tasks_title": "Today's Tasks",
+      "recent_messages_title": "Recent Messages",
+      "today_schedule_title": "Today's Schedule",
+      "all_assignments_heading": "All Assignments",
+      "all_enrolled_courses_heading": "All Enrolled Courses",
+      "enroll_new_course_heading": "Enroll in a New Course",
+      "all_marks_heading": "All Marks",
+      "weekly_schedule_heading": "Weekly Schedule",
+      "payments_and_fees_heading": "Payments & Fees Overview",
+      "to_do_list_heading": "To-Do List",
+      "all_messages_heading": "All Messages",
+      "all_announcements_heading": "All Announcements",
+      "fees_breakdown_title": "Fees Breakdown",
+      "progress_overview_title": "Progress Overview",
+      "last_transactions_title": "Last Transactions",
+      "your_tasks_title": "Your Tasks"
+    },
+    "descriptions_and_paragraphs": {
+      "main_description": "A modern, secure, and fully integrated college management system that streamlines student services, instructor tools, and administrative operations—all in one unified platform.",
+      "secondary_description": "Join EU University today and take the first step towards a brighter future in computer science and IT!",
+      "404_paragraph": "Seems like this is not the web page you are looking for!",
+      "email_verification_paragraph": "we have sent an OTP to your academic email address. Please enter the OTP below to verify your email."
+    },
+    "text": {
+      "didnt_receive_otp_text": "Didn't receive the OTP?",
+      "student_attributes_text": {
+        "code": "Code",
+        "name": "Name",
+        "email": "Email",
+        "phone": "Phone",
+        "department": "Department",
+        "address": "Address"
+      },
+      "attendence_percentage_text": "Attendance Percentage",
+      "paid_money_text": "Paid Money",
+      "num_of_enrolled_courses_text": "Number of Enrolled Courses:",
+      "credit_hours_text": "Credit Hours:",
+      "year_of_study_text": "Year of Study:",
+      "semester_text": "Semester:",
+      "total_fees_text": "Total Fees:",
+      "paid_fees_text": "Paid Fees:",
+      "due_fees_text": "Due Fees:"
+    },
+    "buttons_and_links": {
+      "access_dashboard_button": "Access Your Dashboard",
+      "login_now_button": "Login Now",
+      "return_home_button": "Return to Home Page",
+      "forgot_password_link": "Forgot Password?",
+      "verify_email_button": "Verify Email",
+      "resend_otp_link": "Resend OTP",
+      "reset_password_button": "Reset Password",
+      "view_all_link": "View All",
+      "manage_all_tasks_link": "Manage All Tasks"
+    },
+    "inputs_labels": {
+      "code_input_label": "Code",
+      "password_input_label": "Password",
+      "new_password_input_label": "New Password",
+      "confirm_password_input_label": "Confirm Password",
+      "search_input_label": "Search...",
+      "add_new_task_input_label": "Add a new task..."
+    },
+    "features": {
+      "feature_1": {
+        "title": "Comprehensive Student Management",
+        "description": "Easily manage student records, enrollment, attendance, and academic performance all in one place."
+      },
+      "feature_2": {
+        "title": "Instructor Tools",
+        "description": "Empower instructors with tools for course management, grading, and communication with students."
+      },
+      "feature_3": {
+        "title": "Administrative Efficiency",
+        "description": "Streamline administrative tasks such as scheduling, reporting, and fee management."
+      },
+      "feature_4": {
+        "title": "User-Friendly Interface",
+        "description": "Intuitive design ensures that students, instructors, and administrators can navigate the system with ease."
+      }
+    },
+    "departments": {
+      "computer_science": "Computer Science",
+      "information_systems": "Information Systems",
+      "business_management": "Business Management",
+      "tourism": "Tourism and Hotels"
+    }
+  },
+  "ar_content": {
+    "university_data": {
+      "logo": {
+        "icon": "https://png.pngtree.com/png-clipart/20211017/original/pngtree-university-logo-png-png-image_6855396.png",
+        "title": "جامعة الاتحاد الأوروبية"
+      },
+      "name": "جامعة الاتحاد الأوروبية لعلوم الحاسب وتكنولوجيا المعلومات",
+      "location": "الجيزة، مصر",
+      "email": "info@eu-university.edu",
+      "phone": "+20 123 456 7890",
+      "social_media": {
+        "facebook": {
+          "title": "فيسبوك",
+          "url": "https://www.facebook.com"
+        },
+        "x": {
+          "title": "إكس",
+          "url": "https://www.x.com"
+        },
+        "instagram": {
+          "title": "إنستجرام",
+          "url": "https://www.instagram.com"
+        },
+        "linkedin": {
+          "title": "لينكدإن",
+          "url": "https://www.linkedin.com/school"
+        }
+      }
+    },
+    "pages": {
+      "home": "الصفحة الرئيسية",
+      "login": "تسجيل الدخول",
+      "dashboard": "لوحة التحكم",
+      "email_verification": "تأكيد البريد الإلكتروني",
+      "change_password": "تغيير كلمة المرور",
+      "assignments": "الواجبات",
+      "events": "الفعاليات",
+      "enrolled_courses": "المقررات المسجلة",
+      "enroll_new_course": "تسجيل مقرر جديد",
+      "marks": "الدرجات",
+      "weekly_schedule": "الجدول الأسبوعي",
+      "payments_and_fees": "المدفوعات والرسوم",
+      "to_do_list": "قائمة المهام",
+      "messages": "الرسائل",
+      "announcements": "الإعلانات",
+      "log_out": "تسجيل الخروج"
+    },
+    "headings_and_titles": {
+      "page_loader_heading": "جاري التحميل، يرجى الانتظار...",
+      "main_heading": "جامعة الاتحاد الأوروبية لعلوم الحاسب وتكنولوجيا المعلومات!",
+      "departments_heading": "الأقسام",
+      "call_to_action_heading": "ابدأ رحلتك اليوم!",
+      "contact_us_heading": "تواصل معنا",
+      "social_media_heading": "تابعنا",
+      "sidebar_title": "بوابة الطالب",
+      "student_details_title": "بيانات الطالب",
+      "stats_title": "الإحصائيات",
+      "required_assignments_title": "الواجبات المطلوبة",
+      "upcoming_events_title": "الفعاليات القادمة",
+      "today_tasks_title": "مهام اليوم",
+      "recent_messages_title": "أحدث الرسائل",
+      "today_schedule_title": "جدول اليوم",
+      "all_assignments_heading": "جميع الواجبات",
+      "all_enrolled_courses_heading": "جميع المقررات المسجلة",
+      "enroll_new_course_heading": "تسجيل مقرر جديد",
+      "all_marks_heading": "جميع الدرجات",
+      "weekly_schedule_heading": "الجدول الأسبوعي",
+      "payments_and_fees_heading": "نظرة عامة على الرسوم والمدفوعات",
+      "to_do_list_heading": "قائمة المهام",
+      "all_messages_heading": "جميع الرسائل",
+      "all_announcements_heading": "جميع الإعلانات",
+      "fees_breakdown_title": "تفاصيل الرسوم",
+      "progress_overview_title": "نظرة عامة على التقدم",
+      "last_transactions_title": "آخر المعاملات",
+      "your_tasks_title": "مهامك"
+    },
+    "descriptions_and_paragraphs": {
+      "main_description": "نظام إدارة جامعي حديث وآمن ومتكامل يعمل على تبسيط خدمات الطلاب وأدوات الأساتذة والعمليات الإدارية — كل ذلك في منصة واحدة موحدة.",
+      "secondary_description": "انضم إلى جامعة الاتحاد الأوروبية اليوم وابدأ خطوتك الأولى نحو مستقبل أكثر إشراقًا في علوم الحاسب وتكنولوجيا المعلومات!",
+      "404_paragraph": "يبدو أنك تبحث عن صفحة غير موجودة!",
+      "email_verification_paragraph": "لقد قمنا بإرسال رمز التحقق (OTP) إلى بريدك الإلكتروني الأكاديمي. يرجى إدخال الرمز أدناه للتحقق من بريدك."
+    },
+    "text": {
+      "didnt_receive_otp_text": "لم تستلم رمز التحقق؟",
+      "student_attributes_text": {
+        "code": "كود الطالب",
+        "name": "الاسم",
+        "email": "البريد الإلكتروني",
+        "phone": "رقم الهاتف",
+        "department": "القسم",
+        "address": "العنوان"
+      },
+      "attendence_percentage_text": "نسبة الحضور",
+      "paid_money_text": "المدفوع",
+      "num_of_enrolled_courses_text": "عدد المقررات المسجلة:",
+      "credit_hours_text": "الساعات المعتمدة:",
+      "year_of_study_text": "السنة الدراسية:",
+      "semester_text": "الفصل الدراسي:",
+      "total_fees_text": "إجمالي الرسوم:",
+      "paid_fees_text": "الرسوم المدفوعة:",
+      "due_fees_text": "الرسوم المتبقية:"
+    },
+    "buttons_and_links": {
+      "access_dashboard_button": "الوصول إلى لوحة التحكم",
+      "login_now_button": "تسجيل الدخول الآن",
+      "return_home_button": "العودة للصفحة الرئيسية",
+      "forgot_password_link": "هل نسيت كلمة المرور؟",
+      "verify_email_button": "تأكيد البريد الإلكتروني",
+      "resend_otp_link": "إعادة إرسال الرمز",
+      "reset_password_button": "إعادة تعيين كلمة المرور",
+      "view_all_link": "عرض الكل",
+      "manage_all_tasks_link": "إدارة جميع المهام"
+    },
+    "inputs_labels": {
+      "code_input_label": "الكود",
+      "password_input_label": "كلمة المرور",
+      "new_password_input_label": "كلمة المرور الجديدة",
+      "confirm_password_input_label": "تأكيد كلمة المرور",
+      "search_input_label": "بحث...",
+      "add_new_task_input_label": "أضف مهمة جديدة..."
+    },
+    "features": {
+      "feature_1": {
+        "title": "إدارة شاملة للطلاب",
+        "description": "يمكنك إدارة سجلات الطلاب والتسجيل والحضور والأداء الأكاديمي بسهولة في مكان واحد."
+      },
+      "feature_2": {
+        "title": "أدوات الأساتذة",
+        "description": "تزويد الأساتذة بالأدوات اللازمة لإدارة المقررات، والتقييم، والتواصل مع الطلاب."
+      },
+      "feature_3": {
+        "title": "كفاءة إدارية",
+        "description": "تبسيط المهام الإدارية مثل الجدولة، وإعداد التقارير، وإدارة الرسوم."
+      },
+      "feature_4": {
+        "title": "واجهة سهلة الاستخدام",
+        "description": "تصميم بديهي يضمن سهولة التنقل للطلاب والأساتذة والإداريين."
+      }
+    },
+    "departments": {
+      "computer_science": "علوم الحاسب",
+      "information_systems": "نظم المعلومات",
+      "business_management": "إدارة الأعمال",
+      "tourism": "السياحة والفنادق"
+    }
+  },
+  "students": [
+    {
+      "id": 1,
+      "code": "CS2023001",
+      "name_en": "Ahmed Mohamed",
+      "name_ar": "أحمد محمد",
+      "email": "ahmed@student.edu",
+      "phone": "01012345678",
+      "password": "password123",
+      "address_en": "123 Main St, Giza, Egypt",
+      "address_ar": "١٢٣ شارع الرئيسي، الجيزة، مصر",
+      "department_en": "Computer Science",
+      "department_ar": "علوم الحاسب",
+      "image": "https://img.freepik.com/free-photo/school-boy-with-book-park_23-2148199240.jpg?semt=ais_hybrid&w=740&q=80",
+      "gpa": 3.42,
+      "year": 2,
+      "semester": 2,
+      "stats": {
+        "attendance_percentage": 82,
+        "fees_total": 16400,
+        "fees_paid": 6000
+      }
+    },
+    {
+      "id": 2,
+      "code": "CS2023002",
+      "name_en": "Ali Mosa",
+      "name_ar": "علي موسى",
+      "email": "ali@student.edu",
+      "phone": "01012345679",
+      "password": "testpass456",
+      "address_en": "345 Main St, Giza, Egypt",
+      "address_ar": "٣٤٥ شارع الرئيسي، الجيزة، مصر",
+      "department_en": "Information Systems",
+      "department_ar": "نظم المعلومات",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVT1tSvNzeBSevPVAQVdRdSvy5EQX5Ko-FQ&s",
+      "gpa": 3.81,
+      "year": 4,
+      "semester": 1,
+      "stats": {
+        "attendance_percentage": 63,
+        "fees_total": 23000,
+        "fees_paid": 12000
+      }
+    }
+  ],
+  "login": [
+    {
+      "id": 1,
+      "code": "CS2023001",
+      "password": "password123",
+      "role": "student",
+      "student_id": 1
+    },
+    {
+      "id": 2,
+      "code": "CS2023002",
+      "password": "testpass456",
+      "role": "student",
+      "student_id": 2
+    }
+  ],
+  "student_assignments": [
+    {
+      "id": 1,
+      "document_link": "https://drive.google.com/drive/folders/0B3z2uLn_MfOXZnJOWUlFNjNxZkE?resourcekey=0-PfA6ZMSyq3MQOY6EUVzLkQ",
+      "subject_en": "OOP",
+      "subject_ar": "البرمجة كائنية التوجه",
+      "subject_code": "CS201",
+      "instructor_en": "Dr. Sara Ali",
+      "instructor_ar": "د. سارة علي",
+      "title": "OOP Assignment 1",
+      "due_date": "2025-12-15",
+      "status": "Pending",
+      "is_submitted": false
+    },
+    {
+      "id": 2,
+      "document_link": "https://drive.google.com/drive/folders/0B3z2uLn_MfOXZnJOWUlFNjNxZkE?resourcekey=0-PfA6ZMSyq3MQOY6EUVzLkQ",
+      "subject_en": "Algorithms",
+      "subject_ar": "الخوارزميات",
+      "subject_code": "CS202",
+      "instructor_en": "Dr. Amr Nasser",
+      "instructor_ar": "د. عمرو ناصر",
+      "title": "Algorithms Assignment 1",
+      "due_date": "2025-12-04",
+      "status": "Pending",
+      "is_submitted": false
+    },
+    {
+      "id": 3,
+      "document_link": "https://drive.google.com/drive/folders/0B3z2uLn_MfOXZnJOWUlFNjNxZkE?resourcekey=0-PfA6ZMSyq3MQOY6EUVzLkQ",
+      "subject_en": "Data Structures",
+      "subject_ar": "هياكل البيانات",
+      "subject_code": "CS203",
+      "instructor_en": "Dr. Mohammed Ramadan",
+      "instructor_ar": "د. محمد رمضان",
+      "title": "Data Structures Assignment 1",
+      "due_date": "2025-12-25",
+      "status": "Pending",
+      "is_submitted": false
+    }
+  ],
+  "student_events": [
+    {
+      "id": 1,
+      "title_en": "Tech Talk: The Future of AI",
+      "title_ar": "حديث تقني: مستقبل الذكاء الاصطناعي",
+      "type_en": "Seminar",
+      "type_ar": "ندوة",
+      "date": "2025-12-10",
+      "start_time": "10:00 AM",
+      "end_time": "12:00 PM",
+      "location_en": "Auditorium A",
+      "location_ar": "المدرج أ",
+      "description_en": "Join us for an insightful talk on the advancements and future trends in Artificial Intelligence.",
+      "description_ar": "انضم إلينا في حديث ملهم حول التقدمات والاتجاهات المستقبلية في مجال الذكاء الاصطناعي."
+    },
+    {
+      "id": 2,
+      "title_en": "Lab Workshop: Cybersecurity Basics",
+      "title_ar": "ورشة عمل مختبر: أساسيات الأمن السيبراني",
+      "type_en": "Workshop",
+      "type_ar": "ورشة عمل",
+      "date": "2025-12-30",
+      "start_time": "11:00 AM",
+      "end_time": "01:00 PM",
+      "location_en": "Auditorium C",
+      "location_ar": "المدرج ج",
+      "description_en": "This workshop will cover the fundamental concepts of cybersecurity and best practices.",
+      "description_ar": "ستغطي هذه الورشة المفاهيم الأساسية للأمن السيبراني وأفضل الممارسات."
+    }
+  ],
+  "student_enrolled_courses": [
+    {
+      "id": 1,
+      "course_code": "CS201",
+      "course_name_en": "Object-Oriented Programming",
+      "course_name_ar": "البرمجة كائنية التوجه",
+      "instructor_en": "Dr. Sara Ali",
+      "instructor_ar": "د. سارة علي",
+      "credit_hours": 30,
+      "attendance_percentage": 85,
+      "semester": "Fall 2025"
+    },
+    {
+      "id": 2,
+      "course_code": "CS202",
+      "course_name_en": "Algorithms",
+      "course_name_ar": "الخوارزميات",
+      "instructor_en": "Dr. Amr Nasser",
+      "instructor_ar": "د. عمرو ناصر",
+      "credit_hours": 30,
+      "attendance_percentage": 90,
+      "semester": "Fall 2025"
+    },
+    {
+      "id": 3,
+      "course_code": "CS203",
+      "course_name_en": "Data Structures",
+      "course_name_ar": "هياكل البيانات",
+      "instructor_en": "Dr. Mohammed Ramadan",
+      "instructor_ar": "د. محمد رمضان",
+      "credit_hours": 30,
+      "attendance_percentage": 62,
+      "semester": "Fall 2025"
+    },
+    {
+      "id": 4,
+      "course_code": "CS204",
+      "course_name_en": "Data Bases",
+      "course_name_ar": "قواعد البيانات",
+      "instructor_en": "Dr. Amr Nasser",
+      "instructor_ar": "د. عمرو ناصر",
+      "credit_hours": 30,
+      "attendance_percentage": 73,
+      "semester": "Fall 2025"
+    },
+    {
+      "id": 5,
+      "course_code": "CS205",
+      "course_name_en": "Web Development",
+      "course_name_ar": "تطوير الويب",
+      "instructor_en": "Dr. Rania Samir",
+      "instructor_ar": "د. رانيا سمير",
+      "credit_hours": 30,
+      "attendance_percentage": 88,
+      "semester": "Fall 2025"
+    }
+  ],
+  "student_all_courses": [
+    {
+      "id": 1,
+      "course_code": "CS201",
+      "course_name_en": "Object-Oriented Programming",
+      "course_name_ar": "البرمجة كائنية التوجه",
+      "instructor_en": "Dr. Sara Ali",
+      "instructor_ar": "د. سارة علي",
+      "credit_hours": 30,
+      "attendance_percentage": 85,
+      "semester": "Fall 2025"
+    },
+    {
+      "id": 2,
+      "course_code": "CS202",
+      "course_name_en": "Algorithms",
+      "course_name_ar": "الخوارزميات",
+      "instructor_en": "Dr. Amr Nasser",
+      "instructor_ar": "د. عمرو ناصر",
+      "credit_hours": 30,
+      "attendance_percentage": 90,
+      "semester": "Fall 2025"
+    },
+    {
+      "id": 3,
+      "course_code": "CS203",
+      "course_name_en": "Data Structures",
+      "course_name_ar": "هياكل البيانات",
+      "instructor_en": "Dr. Mohammed Ramadan",
+      "instructor_ar": "د. محمد رمضان",
+      "credit_hours": 30,
+      "attendance_percentage": 62,
+      "semester": "Fall 2025"
+    },
+    {
+      "id": 4,
+      "course_code": "CS204",
+      "course_name_en": "Data Bases",
+      "course_name_ar": "قواعد البيانات",
+      "instructor_en": "Dr. Amr Nasser",
+      "instructor_ar": "د. عمرو ناصر",
+      "credit_hours": 30,
+      "attendance_percentage": 73,
+      "semester": "Fall 2025"
+    },
+    {
+      "id": 5,
+      "course_code": "CS205",
+      "course_name_en": "Web Development",
+      "course_name_ar": "تطوير الويب",
+      "instructor_en": "Dr. Rania Samir",
+      "instructor_ar": "د. رانيا سمير",
+      "credit_hours": 30,
+      "attendance_percentage": 88,
+      "semester": "Fall 2025"
+    },
+    {
+      "id": 6,
+      "course_code": "CS206",
+      "course_name_en": "Mobile App Development",
+      "course_name_ar": "تطوير تطبيقات الجوال",
+      "instructor_en": "Dr. Ahmed Hassan",
+      "instructor_ar": "د. أحمد حسن",
+      "credit_hours": 30,
+      "attendance_percentage": 88,
+      "semester": "Fall 2025"
+    },
+    {
+      "id": 7,
+      "course_code": "CS207",
+      "course_name_en": "Operating Systems",
+      "course_name_ar": "أنظمة التشغيل",
+      "instructor_en": "Dr. Mosa Ayman",
+      "instructor_ar": "د. موسى أيمن",
+      "credit_hours": 30,
+      "attendance_percentage": 51,
+      "semester": "Fall 2025"
+    },
+    {
+      "id": 8,
+      "course_code": "CS208",
+      "course_name_en": "Networking",
+      "course_name_ar": "الشبكات",
+      "instructor_en": "Dr. Ahmed Saad",
+      "instructor_ar": "د. أحمد سعد",
+      "credit_hours": 30,
+      "attendance_percentage": 65,
+      "semester": "Fall 2025"
+    }
+  ],
+  "student_marks": {
+    "year_1_semester_1": [
+      {
+        "id": 1,
+        "course_code": "CS201",
+        "course_name_en": "Object-Oriented Programming",
+        "course_name_ar": "البرمجة كائنية التوجه",
+        "instructor_en": "Dr. Sara Ali",
+        "instructor_ar": "د. سارة علي",
+        "credit_hours": 30,
+        "marks": {
+          "midterm": 30,
+          "final": 55,
+          "total": 85
+        },
+        "grade": "A",
+        "status": "Passed"
+      },
+      {
+        "id": 2,
+        "course_code": "CS202",
+        "course_name_en": "Algorithms",
+        "course_name_ar": "الخوارزميات",
+        "instructor_en": "Dr. Amr Nasser",
+        "instructor_ar": "د. عمرو ناصر",
+        "credit_hours": 30,
+        "marks": {
+          "midterm": 30,
+          "final": 55,
+          "total": 85
+        },
+        "grade": "A",
+        "status": "Passed"
+      },
+      {
+        "id": 3,
+        "course_code": "CS203",
+        "course_name_en": "Data Structures",
+        "course_name_ar": "هياكل البيانات",
+        "instructor_en": "Dr. Mohammed Ramadan",
+        "instructor_ar": "د. محمد رمضان",
+        "credit_hours": 30,
+        "marks": {
+          "midterm": 30,
+          "final": 55,
+          "total": 85
+        },
+        "grade": "A",
+        "status": "Passed"
+      },
+      {
+        "id": 4,
+        "course_code": "CS204",
+        "course_name_en": "Databases",
+        "course_name_ar": "قواعد البيانات",
+        "instructor_en": "Dr. Amr Nasser",
+        "instructor_ar": "د. عمرو ناصر",
+        "credit_hours": 30,
+        "marks": {
+          "midterm": 30,
+          "final": 55,
+          "total": 85
+        },
+        "grade": "A",
+        "status": "Passed"
+      },
+      {
+        "id": 5,
+        "course_code": "CS205",
+        "course_name_en": "Web Development",
+        "course_name_ar": "تطوير الويب",
+        "instructor_en": "Dr. Rania Samir",
+        "instructor_ar": "د. رانيا سمير",
+        "credit_hours": 30,
+        "marks": {
+          "midterm": 30,
+          "final": 55,
+          "total": 85
+        },
+        "grade": "A",
+        "status": "Passed"
+      },
+      {
+        "id": 6,
+        "course_code": "CS206",
+        "course_name_en": "Mobile App Development",
+        "course_name_ar": "تطوير تطبيقات الجوال",
+        "instructor_en": "Dr. Ahmed Hassan",
+        "instructor_ar": "د. أحمد حسن",
+        "credit_hours": 30,
+        "marks": {
+          "midterm": 30,
+          "final": 55,
+          "total": 85
+        },
+        "grade": "A",
+        "status": "Passed"
+      }
+    ],
+    "year_1_semester_2": [
+      {
+        "id": 1,
+        "course_code": "CS201",
+        "course_name_en": "Object-Oriented Programming",
+        "course_name_ar": "البرمجة كائنية التوجه",
+        "instructor_en": "Dr. Sara Ali",
+        "instructor_ar": "د. سارة علي",
+        "credit_hours": 30,
+        "marks": {
+          "midterm": 30,
+          "final": 55,
+          "total": 85
+        },
+        "grade": "A",
+        "status": "Passed"
+      },
+      {
+        "id": 2,
+        "course_code": "CS202",
+        "course_name_en": "Algorithms",
+        "course_name_ar": "الخوارزميات",
+        "instructor_en": "Dr. Amr Nasser",
+        "instructor_ar": "د. عمرو ناصر",
+        "credit_hours": 30,
+        "marks": {
+          "midterm": 30,
+          "final": 55,
+          "total": 85
+        },
+        "grade": "A",
+        "status": "Passed"
+      },
+      {
+        "id": 3,
+        "course_code": "CS203",
+        "course_name_en": "Data Structures",
+        "course_name_ar": "هياكل البيانات",
+        "instructor_en": "Dr. Mohammed Ramadan",
+        "instructor_ar": "د. محمد رمضان",
+        "credit_hours": 30,
+        "marks": {
+          "midterm": 30,
+          "final": 55,
+          "total": 85
+        },
+        "grade": "A",
+        "status": "Passed"
+      },
+      {
+        "id": 4,
+        "course_code": "CS204",
+        "course_name_en": "Databases",
+        "course_name_ar": "قواعد البيانات",
+        "instructor_en": "Dr. Amr Nasser",
+        "instructor_ar": "د. عمرو ناصر",
+        "credit_hours": 30,
+        "marks": {
+          "midterm": 30,
+          "final": 55,
+          "total": 85
+        },
+        "grade": "A",
+        "status": "Passed"
+      },
+      {
+        "id": 5,
+        "course_code": "CS205",
+        "course_name_en": "Web Development",
+        "course_name_ar": "تطوير الويب",
+        "instructor_en": "Dr. Rania Samir",
+        "instructor_ar": "د. رانيا سمير",
+        "credit_hours": 30,
+        "marks": {
+          "midterm": 30,
+          "final": 55,
+          "total": 85
+        },
+        "grade": "A",
+        "status": "Passed"
+      },
+      {
+        "id": 6,
+        "course_code": "CS206",
+        "course_name_en": "Mobile App Development",
+        "course_name_ar": "تطوير تطبيقات الجوال",
+        "instructor_en": "Dr. Ahmed Hassan",
+        "instructor_ar": "د. أحمد حسن",
+        "credit_hours": 30,
+        "marks": {
+          "midterm": 30,
+          "final": 55,
+          "total": 85
+        },
+        "grade": "A",
+        "status": "Passed"
+      }
+    ],
+    "year_2_semester_1": [
+      {
+        "id": 1,
+        "course_code": "CS201",
+        "course_name_en": "Object-Oriented Programming",
+        "course_name_ar": "البرمجة كائنية التوجه",
+        "instructor_en": "Dr. Sara Ali",
+        "instructor_ar": "د. سارة علي",
+        "credit_hours": 30,
+        "marks": {
+          "midterm": 30,
+          "final": 55,
+          "total": 85
+        },
+        "grade": "A",
+        "status": "Passed"
+      },
+      {
+        "id": 2,
+        "course_code": "CS202",
+        "course_name_en": "Algorithms",
+        "course_name_ar": "الخوارزميات",
+        "instructor_en": "Dr. Amr Nasser",
+        "instructor_ar": "د. عمرو ناصر",
+        "credit_hours": 30,
+        "marks": {
+          "midterm": 30,
+          "final": 55,
+          "total": 85
+        },
+        "grade": "A",
+        "status": "Passed"
+      },
+      {
+        "id": 3,
+        "course_code": "CS203",
+        "course_name_en": "Data Structures",
+        "course_name_ar": "هياكل البيانات",
+        "instructor_en": "Dr. Mohammed Ramadan",
+        "instructor_ar": "د. محمد رمضان",
+        "credit_hours": 30,
+        "marks": {
+          "midterm": 30,
+          "final": 55,
+          "total": 85
+        },
+        "grade": "A",
+        "status": "Passed"
+      },
+      {
+        "id": 4,
+        "course_code": "CS204",
+        "course_name_en": "Databases",
+        "course_name_ar": "قواعد البيانات",
+        "instructor_en": "Dr. Amr Nasser",
+        "instructor_ar": "د. عمرو ناصر",
+        "credit_hours": 30,
+        "marks": {
+          "midterm": 30,
+          "final": 55,
+          "total": 85
+        },
+        "grade": "A",
+        "status": "Passed"
+      },
+      {
+        "id": 5,
+        "course_code": "CS205",
+        "course_name_en": "Web Development",
+        "course_name_ar": "تطوير الويب",
+        "instructor_en": "Dr. Rania Samir",
+        "instructor_ar": "د. رانيا سمير",
+        "credit_hours": 30,
+        "marks": {
+          "midterm": 30,
+          "final": 55,
+          "total": 85
+        },
+        "grade": "A",
+        "status": "Passed"
+      },
+      {
+        "id": 6,
+        "course_code": "CS206",
+        "course_name_en": "Mobile App Development",
+        "course_name_ar": "تطوير تطبيقات الجوال",
+        "instructor_en": "Dr. Ahmed Hassan",
+        "instructor_ar": "د. أحمد حسن",
+        "credit_hours": 30,
+        "marks": {
+          "midterm": 30,
+          "final": 55,
+          "total": 85
+        },
+        "grade": "A",
+        "status": "Passed"
+      }
+    ]
+  },
+  "student_weekly_schedule": {
+    "saturday": [
+      {
+        "id": 1,
+        "time": "10:00 AM - 12:00 PM",
+        "course_code": "CS201",
+        "course_en": "Object-Oriented Programming",
+        "course_ar": "البرمجة كائنية التوجه",
+        "location_en": "Room 101",
+        "location_ar": "الغرفة ١٠١"
+      },
+      {
+        "id": 2,
+        "time": "01:00 PM - 03:00 PM",
+        "course_code": "CS202",
+        "course_en": "Algorithms",
+        "course_ar": "الخوارزميات",
+        "location_en": "Room 102",
+        "location_ar": "الغرفة ١٠٢"
+      }
+    ],
+    "sunday": [
+      {
+        "id": 1,
+        "time": "10:00 AM - 12:00 PM",
+        "course_code": "CS201",
+        "course_en": "Object-Oriented Programming",
+        "course_ar": "البرمجة كائنية التوجه",
+        "location_en": "Room 101",
+        "location_ar": "الغرفة ١٠١"
+      },
+      {
+        "id": 2,
+        "time": "01:00 PM - 03:00 PM",
+        "course_code": "CS202",
+        "course_en": "Algorithms",
+        "course_ar": "الخوارزميات",
+        "location_en": "Room 102",
+        "location_ar": "الغرفة ١٠٢"
+      },
+      {
+        "id": 3,
+        "time": "09:00 PM - 11:00 PM",
+        "course_code": "CS204",
+        "course_en": "Databases",
+        "course_ar": "قواعد البيانات",
+        "location_en": "Room 105",
+        "location_ar": "الغرفة ١٠٥"
+      }
+    ],
+    "monday": [],
+    "tuesday": [
+      {
+        "id": 1,
+        "time": "10:00 AM - 12:00 PM",
+        "course_code": "CS203",
+        "course_en": "Data Structures",
+        "course_ar": "هياكل البيانات",
+        "location_en": "Room 103",
+        "location_ar": "الغرفة ١٠٣"
+      }
+    ],
+    "wednesday": [
+      {
+        "id": 1,
+        "time": "10:00 AM - 12:00 PM",
+        "course_code": "CS205",
+        "course_en": "Web Development",
+        "course_ar": "تطوير الويب",
+        "location_en": "Room 104",
+        "location_ar": "الغرفة ١٠٤"
+      },
+      {
+        "id": 2,
+        "time": "01:00 PM - 03:00 PM",
+        "course_code": "CS206",
+        "course_en": "Mobile App Development",
+        "course_ar": "تطوير تطبيقات الجوال",
+        "location_en": "Room 106",
+        "location_ar": "الغرفة ١٠٦"
+      }
+    ],
+    "thursday": [
+      {
+        "id": 1,
+        "time": "10:00 AM - 12:00 PM",
+        "course_code": "CS207",
+        "course_en": "Operating Systems",
+        "course_ar": "أنظمة التشغيل",
+        "location_en": "Room 107",
+        "location_ar": "الغرفة ١٠٧"
+      },
+      {
+        "id": 2,
+        "time": "10:00 AM - 12:00 PM",
+        "course_code": "CS207",
+        "course_en": "Operating Systems",
+        "course_ar": "أنظمة التشغيل",
+        "location_en": "Room 107",
+        "location_ar": "الغرفة ١٠٧"
+      }
+    ],
+    "friday": []
+  },
+  "student_transactions": [
+    {
+      "id": 1,
+      "date": "2025-10-01",
+      "description_en": "Tuition Fee Payment",
+      "description_ar": "دفع رسوم التعليم",
+      "amount": 3000,
+      "status": "Completed",
+      "method": "Cash"
+    },
+    {
+      "id": 2,
+      "date": "2025-11-15",
+      "description_en": "Tuition Fee Payment",
+      "description_ar": "دفع رسوم التعليم",
+      "amount": 3000,
+      "status": "Completed",
+      "method": "Cash"
+    }
+  ],
+  "student_tasks": [],
+  "student_messages": [
+    {
+      "id": 1,
+      "sender_en": "Dr. Sara Ali",
+      "sender_ar": "د. سارة علي",
+      "subject_en": "Welcome to OOP Course",
+      "subject_ar": "مرحبًا بك في مقرر البرمجة كائنية التوجه",
+      "content_en": "Dear Student, Welcome to the Object-Oriented Programming course. Looking forward to a great semester!",
+      "content_ar": "عزيزي الطالب، مرحبًا بك في مقرر البرمجة كائنية التوجه. نتطلع إلى فصل دراسي رائع!",
+      "date": "2025-09-01",
+      "is_read": false
+    },
+    {
+      "id": 2,
+      "sender_en": "Admin Office",
+      "sender_ar": "مكتب الإدارة",
+      "subject_en": "Tuition Fee Reminder",
+      "subject_ar": "تذكير برسوم التعليم",
+      "content_en": "Dear Student, This is a reminder that your tuition fee for the semester is due next week. Please make the payment on time.",
+      "content_ar": "عزيزي الطالب، هذا تذكير بأن رسوم التعليم للفصل الدراسي مستحقة الأسبوع المقبل. يرجى إجراء الدفع في الوقت المحدد.",
+      "date": "2025-11-20",
+      "is_read": true
+    }
+  ],
+  "student_announcements": [
+    {
+      "id": 1,
+      "title_en": "Campus Maintenance Notice",
+      "title_ar": "إشعار صيانة الحرم الجامعي",
+      "content_en": "Please be informed that there will be scheduled maintenance on the campus facilities this weekend. Some areas may be temporarily inaccessible.",
+      "content_ar": "يرجى العلم بأنه سيتم إجراء صيانة مجدولة في مرافق الحرم الجامعي هذا الأسبوع. قد تكون بعض المناطق غير متاحة مؤقتًا.",
+      "date": "2025-12-05"
+    },
+    {
+      "id": 2,
+      "title_en": "Holiday Schedule Announcement",
+      "title_ar": "إعلان جدول العطلات",
+      "content_en": "The university will be closed for the winter holidays from December 20th to January 5th. Classes will resume on January 6th.",
+      "content_ar": "سيتم إغلاق الجامعة خلال عطلات الشتاء من 20 ديسمبر إلى 5 يناير. ستستأنف الدروس في 6 يناير.",
+      "date": "2025-12-01"
+    }
+  ]
+}
